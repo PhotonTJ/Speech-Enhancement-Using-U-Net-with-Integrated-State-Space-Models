@@ -20,6 +20,8 @@ The model consists of three main components:
 2. **LRU Bottleneck**: Linear Recurrent Unit for temporal sequence modeling
 3. **Decoder**: Upsampling layers with skip connections to reconstruct clean audio
 
+<img width="739" height="813" alt="image" src="https://github.com/user-attachments/assets/0b6c4662-b87f-4642-a91b-dc1f85d79e5f" />
+
 ### Key Components
 
 - **LRUBlock**: Implements complex-valued linear recurrent processing
